@@ -1,10 +1,10 @@
-// import logo from './logo.svg';
+
 import React from "react";
 import { useState, useEffect } from "react";
 import "./App.css";
 import searchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
-// 182dae73
+
 
 const API_URL = "http://www.omdbapi.com?apikey=182dae73";
 
